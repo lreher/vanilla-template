@@ -18,6 +18,8 @@ Should be working, just add any code you want however you want, this template do
 
 ## How
 
+Download the folder from the repo and just add it to a blank project.
+
 #### Install dependencies
 
 - `npm i` in the project
